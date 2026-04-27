@@ -96,7 +96,7 @@ Paste this:
 ```toml
 model_provider = "openrouter"
 model_reasoning_effort = "medium"
-model = "openai/gpt-4o"
+model = "gpt-5.4"
 
 [model_providers.openrouter]
 name = "openrouter"
